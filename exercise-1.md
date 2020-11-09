@@ -11,7 +11,7 @@ The first step in building a new consumer-facing web application is the successf
 - Create a web application in a private repository called `<lastname>-backend-1`.
 - Build the necessary REST endpoints that allow a user to sign up with an email address and password, login with an existing email address and password, and log out.
 - Design a database schema for your preferred database engine to store and query the credentials. Make sure to include the SQL table creation scripts in your repository.
-- Create a basic index page at the root `/` of the project.
+- Create a basic index page at the root `/` of the project that allows a user to login.
 - Also, create a `/members` area that informs the user they are logged in and allows them to log out. Redirect the user to this page upon successful login.
 - Inform the user when their login credentials are not valid.
 - Create a `Dockerfile` and `docker-compose.yml` that allows us to build and start your project via `docker-compose up -d`. 
