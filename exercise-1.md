@@ -18,6 +18,6 @@ The first step in building a new consumer-facing web application is the successf
 
 ##### When complete:
 
-Ping Phillip in your HR startup channel and provide a link to your private repository. Make sure your `README` includes how to start your application and anything we should know. Additionally, please include notes on any design choices you made throughout the exercise (dependencies, libraries, assumptions, etc.).
+Provide a link to your private repository to your recruiter or company representative. Make sure your `README` includes how to start your application and anything we should know. Additionally, please include notes on any design choices you made throughout the exercise (dependencies, libraries, assumptions, etc.).
 
 Lastly, in your `README`, please note how many hours you spent on the exercise.
