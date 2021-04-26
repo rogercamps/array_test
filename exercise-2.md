@@ -6,7 +6,7 @@ We often consume RESTful API's from our partners and vendors to provide these pr
 
 ##### The objectives are:
 
-- Familiarize yourself with our API at https://www.apimatic.io/apidocs/array and specifically the "Credit Report API Flow" guide.
+- Familiarize yourself with our API at https://docs.array.com and specifically the "Credit Report API Flow" guide.
 - Create a web application in a private repository called `<lastname>-backend-2`.
 - Build the necessary REST endpoints to: Create a user, retrieve questions, submit answers, and then order a credit report.
 - Create a series of simple web pages to collect the user information, present the questions, and display the credit report upon successfully answering the questions.
