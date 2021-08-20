@@ -1,3 +1,3 @@
 # backend
 
-Array backend software engineer onboarding exercises.
+Array backend software engineer hiring tests.
