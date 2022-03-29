@@ -9,7 +9,6 @@ The first step in building a new consumer-facing web application is the successf
 ##### The objectives are:
 
 - Open this repo in a new Gitpod workspace by clicking here: [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://gitlab.com/array.com/tests-backend)
-- Create a web application in a folder called `<lastname>-backend-test`.
 - Build the necessary REST endpoints that allow users to sign up with an email address and password, log in with an existing email address and password, and log out.
 - Design a database schema for your preferred database engine to store and query the credentials. Make sure to include the SQL table creation scripts in your repository.
 - Provide a Postman collection or sufficient documentation for testing the routes and validating the functionality.
@@ -20,6 +19,8 @@ The first step in building a new consumer-facing web application is the successf
 Please write a `README` that includes how to start your application and anything we should know. Please include notes on any design choices you made throughout the exercise (dependencies, libraries, assumptions, etc.).
 
 Additionally, please create a Loom or YouTube video (private link) on the final deliverable of your test. Include any information on how you approached your test, what choices you made, what you liked, disliked, etc. 
+
+Open https://gitpod.io/workspaces and click the workspace menu icon and enable "Share" so we can access your Gitpod workspace.
 
 Submit the link for your Gitpod workspace and video to: https://docs.google.com/forms/d/e/1FAIpQLSfWYuJ4T1OZ1Bmc77fMJCe3X21AzOKhfdvAobWzupSeR3U7CA/viewform
 
