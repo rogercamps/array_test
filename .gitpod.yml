@@ -3,7 +3,6 @@ image: gitpod/workspace-postgres
 tasks:
   - init: npm install
     command: npm run dev
-  - command: pg_start
 
 ports:
   - port: 3000
