@@ -1,9 +1,5 @@
 image: gitpod/workspace-postgres
-  # file: .gitpod.dockerfile
 
-# tasks:
-#   - init: npm install
-#     command: echo 'start script'
 tasks:
   - init: npm install
     command: npm run dev
